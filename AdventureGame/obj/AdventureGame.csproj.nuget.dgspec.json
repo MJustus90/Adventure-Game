@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Texas\\source\\repos\\Adventure-Game\\AdventureGame\\AdventureGame.csproj": {}
+    "C:\\Users\\brent\\Source\\Repos\\Adventure-Game\\AdventureGame\\AdventureGame.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Texas\\source\\repos\\Adventure-Game\\AdventureGame\\AdventureGame.csproj": {
+    "C:\\Users\\brent\\Source\\Repos\\Adventure-Game\\AdventureGame\\AdventureGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Texas\\source\\repos\\Adventure-Game\\AdventureGame\\AdventureGame.csproj",
+        "projectUniqueName": "C:\\Users\\brent\\Source\\Repos\\Adventure-Game\\AdventureGame\\AdventureGame.csproj",
         "projectName": "AdventureGame",
-        "projectPath": "C:\\Users\\Texas\\source\\repos\\Adventure-Game\\AdventureGame\\AdventureGame.csproj",
-        "packagesPath": "C:\\Users\\Texas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Texas\\source\\repos\\Adventure-Game\\AdventureGame\\obj\\",
+        "projectPath": "C:\\Users\\brent\\Source\\Repos\\Adventure-Game\\AdventureGame\\AdventureGame.csproj",
+        "packagesPath": "C:\\Users\\brent\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\brent\\Source\\Repos\\Adventure-Game\\AdventureGame\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "D:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Texas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\brent\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
