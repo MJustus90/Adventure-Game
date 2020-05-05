@@ -5,12 +5,9 @@ using System.Threading.Tasks;
 
 namespace AdventureGame.Models
 {
-    public class Item
+    public class ItemType
     {
-        public int ItemId { get; set; }
-        public string Name { get; set; }
-        public int ItemTypeId { get; }
+        public int ItemTypeId { get; set; }
+        public string TypeName { get; set; }
     }
-
-  
 }
