@@ -7,6 +7,7 @@ namespace AdventureGame.Models
 {
     public class AccessPoints
     {
+        // May or may not need this in the database
         public int AccessPointsId { get; set; }
     }
 }

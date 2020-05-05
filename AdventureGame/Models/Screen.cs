@@ -12,4 +12,5 @@ namespace AdventureGame.Models
         public string Description { get; set; }
 
     }
+ 
 }

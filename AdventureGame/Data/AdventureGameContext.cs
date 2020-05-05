@@ -17,6 +17,9 @@ namespace AdventureGame.Data
 
             public DbSet<Item> Item { get; set; }
             public DbSet<ItemType> ItemType { get; set; }
+            public DbSet<AdventureGame.Models.Enemy> Enemy { get; set; }
+            public DbSet<AdventureGame.Models.Screen> Screen { get; set; }
+            public DbSet<AdventureGame.Models.ScreenEnemy> ScreenEnemy { get; set; }
         }
     
 }
