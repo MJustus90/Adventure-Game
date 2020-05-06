@@ -1,0 +1,33 @@
+﻿@model IEnumerable<AdventureGame.Models.Screen>
+
+<table>
+    <thead>
+        <tr>
+            <th>
+                <h3>Screen Id</h3>
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var screen in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => screen.ScreenId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => screen.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => screen.Description)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
