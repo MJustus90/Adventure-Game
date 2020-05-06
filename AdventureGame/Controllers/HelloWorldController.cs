@@ -8,7 +8,7 @@ namespace AdventureGame.Controllers
         // 
         // GET: /HelloWorld/
 
-        public IActionResult Index()
+        public IActionResult Game()
         {
             return View();
         }
