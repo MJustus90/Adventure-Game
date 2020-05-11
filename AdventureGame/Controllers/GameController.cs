@@ -12,7 +12,7 @@ namespace AdventureGame.Controllers
     public class GameController : Controller
     {
         private readonly AdventureGameContext _context;
-        public IActionResult ScreenOne()
+        public IActionResult Index()
         {
             return View();
         }
@@ -20,7 +20,10 @@ namespace AdventureGame.Controllers
         {
             return View();
         }
-        
+        public IActionResult TakeKey()
+        {
+            return View();
+        }
         public async Task<IActionResult> TestScreen(int? id)
         {
             var screen = await _context.Screen.FindAsync(id);

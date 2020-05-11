@@ -11,6 +11,8 @@ namespace AdventureGame.Models
         public string Name { get; set; }
         public string Description { get; set; }
 
+        //public int AccessPointsId { get; set; }
+        //public AccessPoints Actions { get; set; }
     }
  
 }
