@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Embry-Riddle\\Visual Studio Projects\\AdventureGame\\Adventure-Game\\AdventureGame\\AdventureGame.csproj": {}
+    "C:\\Users\\mpjus\\Desktop\\Adventure-Game\\AdventureGame\\AdventureGame.csproj": {}
   },
   "projects": {
-    "D:\\Embry-Riddle\\Visual Studio Projects\\AdventureGame\\Adventure-Game\\AdventureGame\\AdventureGame.csproj": {
+    "C:\\Users\\mpjus\\Desktop\\Adventure-Game\\AdventureGame\\AdventureGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Embry-Riddle\\Visual Studio Projects\\AdventureGame\\Adventure-Game\\AdventureGame\\AdventureGame.csproj",
+        "projectUniqueName": "C:\\Users\\mpjus\\Desktop\\Adventure-Game\\AdventureGame\\AdventureGame.csproj",
         "projectName": "AdventureGame",
-        "projectPath": "D:\\Embry-Riddle\\Visual Studio Projects\\AdventureGame\\Adventure-Game\\AdventureGame\\AdventureGame.csproj",
-        "packagesPath": "C:\\Users\\brent\\.nuget\\packages\\",
-        "outputPath": "D:\\Embry-Riddle\\Visual Studio Projects\\AdventureGame\\Adventure-Game\\AdventureGame\\obj\\",
+        "projectPath": "C:\\Users\\mpjus\\Desktop\\Adventure-Game\\AdventureGame\\AdventureGame.csproj",
+        "packagesPath": "C:\\Users\\mpjus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mpjus\\Desktop\\Adventure-Game\\AdventureGame\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\brent\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\mpjus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -48,13 +44,13 @@
             },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
-              "version": "[3.1.2, )"
+              "version": "[3.1.3, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[3.1.2, )"
+              "version": "[3.1.3, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
@@ -79,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
